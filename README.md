@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @winch-jm
-- 👀 I’m interested in machine learning, neuroscience, abstract algebra, statistics
-- 🌱 I’m currently learning how to code better
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: jmw479@drexel.edu :)
+Hi, I'm Jeff!
+- Visit my website: www.jeffwinchell.com
+- Reach me at jmw479@drexel.edu or message me on LinkedIn
 
 <!---
 winch-jm/winch-jm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
