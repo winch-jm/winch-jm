@@ -1,6 +1,5 @@
 Hi, I'm Jeff!
-
-I currently work at the New York Stem Cell Foundation where I develop automated tools to leverage ML/computer vision for quality checking in high-throughput imaging assays. I also investigate phenotypes of aging and neurodegenerative diseases from large-scale, multi-modal data collected from stem cell disease models. 
+I'm currently a master's student at Carnegie Mellon studying computational biology. I previously worked at the New York Stem Cell Foundation where I developed automated tools to leverage ML/computer vision for quality checking in high-throughput imaging assays. I also investigated phenotypes of aging and neurodegenerative diseases from large-scale, multi-modal data collected from stem cell disease models. 
 
 My current research interests include multi-modal data integration, representation learning, and interpretable AI. Feel free to:
 - Visit my website: www.jeffwinchell.com
